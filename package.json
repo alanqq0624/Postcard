@@ -8,5 +8,14 @@
     "start": "node server.js"
   },
   "author": "alanqq0624",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.0-beta4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanqq0624/Postcard.git"
+  }
 }
